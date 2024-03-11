@@ -1,1 +1,1 @@
-# Multi-disease-prediction
+# Smart-disease-prediction
